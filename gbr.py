@@ -129,7 +129,7 @@ def main():
     ╚██████╔╝██████╔╝██║  ██║
      ╚═════╝ ╚═════╝ ╚═╝  ╚═╝
         
-    Link do Telegram: {telegram_link}
+    Link do Telegram: {https://t.me/redsecgb}
     SEU IP: {generate_random_ip()}
     '''
 
